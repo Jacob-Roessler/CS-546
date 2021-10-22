@@ -1,0 +1,15 @@
+{
+    "name": "cs-546-lab-5",
+    "version": "1.0.0",
+    "description": "My lab 5 module",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Jacob Roessler 10448394",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.22.0",
+        "express": "^4.17.1"
+    }
+}
